@@ -36,3 +36,4 @@ print(f"The sum of all subsets is : {findSumSubsets(n)}")
 
 
 
+#End of code
